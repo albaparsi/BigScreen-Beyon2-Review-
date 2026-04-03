@@ -1,2 +1,2 @@
-# BigScreen-Beyon2-Review-
-[View my PDF](./bigscreen-beyond-2.pdf)
+# BigScreen-Beyon2-Review
+[Here is the ppt](./bigscreen-beyond-2.pdf)
